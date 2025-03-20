@@ -9,7 +9,7 @@
 > – [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
 
 > Program construction consists of a sequence of refinement steps.<br/>
-> ― [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+> – [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
 
 > The most expensive words in engineering are "It would be cool if..."<br/>
 > – [Jean-Louis Gassée](https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e)
@@ -18,16 +18,16 @@
 > – [Antoine de Saint-Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 > You start small, articulate fundamental principles, articulate long-term ideals, and develop based on feedback from real-world use.<br/>
-> ― [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
+> – [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
 
 > When in doubt, use brute force.<br/>
-> ― [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+> – [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
 > If you have a procedure with ten parameters, you probably missed some.<br/> 
-> - [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+> – [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 > Bugs lurk in corners and congregate at boundaries.<br/>
-> - [Boris Beizer](https://en.wikipedia.org/wiki/Boris_Beizer)
+> – [Boris Beizer](https://en.wikipedia.org/wiki/Boris_Beizer)
 
 > A program is never less than 90% complete, and never more than 95% complete.<br/>
 > – Terry Baker
@@ -44,16 +44,16 @@
 ## Complexity
 
 > The purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise.<br/>
-> ― [Edsger W. Dijkstra](https://nl.wikipedia.org/wiki/Edsger_Dijkstra)
+> – [Edsger W. Dijkstra](https://nl.wikipedia.org/wiki/Edsger_Dijkstra)
 
 > Simplicity is prerequisite for reliability.<br/>
-> ― [Edsger W. Dijkstra](https://nl.wikipedia.org/wiki/Edsger_Dijkstra)
+> – [Edsger W. Dijkstra](https://nl.wikipedia.org/wiki/Edsger_Dijkstra)
 
 > Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.<br/>
-> ― [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+> – [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 > Simplicity does not precede complexity, but follows it.<br/>
-> ― [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+> – [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 > Controlling complexity is the essence of computer programming.<br/>
 > – [Brian Kernigan](https://en.wikipedia.org/wiki/Brian_Kernighan)
@@ -74,17 +74,17 @@
 ## FP & OOP
 
 > It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.<br/>
-> ― [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+> – [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 ## Programming languages
 
 > A language that doesn't affect the way you think about programming is not worth knowing.<br/>
-> ― [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+> – [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 ## Habits
 
 > I’m not a great programmer; I’m just a good programmer with great habits.<br/>
-> ― [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
+> – [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
 
 ## Industry and life wisdom
 
